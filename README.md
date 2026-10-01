@@ -260,7 +260,7 @@ reports/                   metrics.json, model_comparison.csv, imbalance_multise
 
 ## Author
 
-**<Shubham Choubey>**
+**<Your Shubham Choubey>**
 
 ## License
 
