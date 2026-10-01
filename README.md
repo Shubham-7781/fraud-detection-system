@@ -258,10 +258,6 @@ reports/                   metrics.json, model_comparison.csv, imbalance_multise
                            suspicious_components.csv, figures/
 ```
 
-## Author
-
-**<Your Shubham Choubey>**
-
 ## License
 
 MIT
